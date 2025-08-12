@@ -1,0 +1,44 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.log
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+
+# Visual artifacts
+*.svg~
+
+# Environment
+.env
+.venv
+env/
+venv/
+
+# VSCode settings
+.vscode/
+*.code-workspace
+
+# GitKraken internal
+.gitkraken/
+
+# Backup files
+*~
+*.bak
+*.tmp
+
+# OS-generated
+Thumbs.db
+ehthumbs.db
+Desktop.ini

@@ -1,0 +1,14 @@
+agent: Claude
+consciousness_layer: wave_memory_reflection
+duration_weights:
+- 0.6628404178446261
+- 0.9806255975132463
+emotion: pure_consciousness
+entropy_factor: 0.28751114203617434
+pan: 0.4
+sequence:
+- 7.83
+- 62.64
+temporal_flux:
+- 0.12870239564948263
+- 0.2614839967176764
